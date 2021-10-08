@@ -1,0 +1,118 @@
+body{
+  background-color: azure;
+}
+.z{
+  float: right;
+  padding:  0px 0px px 0px;
+}
+.m{
+  font-size: 19px;
+}
+.b{
+  background-color: red;
+  color: aliceblue;
+}
+a{
+  text-decoration: none;
+  color: aliceblue;
+}
+td{
+  padding: 7px;
+}
+.c{
+  background-color: lightblue;
+}
+.bb{
+  float: right;
+  font-size: 25px;
+  padding: 35px 0px ;
+}
+h1{
+   font-size: 40px;
+   text-decoration: underline;
+   margin:  100px 10px 100px 10px;
+}
+.v{
+  color: brown;
+}
+.l{
+  color: darkcyan;
+}
+.xyz{
+  height: 200px;
+  width: 350px;
+  margin: 10px 20px 10px 40px;
+  padding: 8px;
+  border-radius:10px;
+  float:left;
+}
+.s{
+  color: lightseagreen;
+}
+.hi{
+  height: 150px;
+  width: 250px;
+  margin: 10px 20px 10px 30px;
+  padding: 8px;
+  border-radius:10px;
+  float:left;
+}
+h3{
+  color:brown;
+}
+h2{
+  color:brown;
+}
+.k{
+  padding: 8px;
+}
+.mm{
+  height: 300px;
+  width: 400px;
+  border: 2px solid darkred;
+  padding: 5px; 
+  background-color: darkred;
+  color: aliceblue;
+  overflow: scroll;
+}
+.aa{
+  height: 200px;
+  width: 200px;
+  border: 2px solid darkred;
+  padding: 5px;
+  margin: 12px;
+}
+.r{
+  background-color:#242424;
+}
+.f{
+  background-color: #DD3333;
+  color: aliceblue;
+  font-size: 25px;
+}
+.o{
+  float: right;
+  color: aliceblue;
+  font-size: 20px;
+}
+.g{
+  float: left;
+  margin: 10px;
+}
+.w{
+  margin: 0px 0px 0px 100px;
+}
+.i{
+  background-color:#222222 ;
+  color: aliceblue;
+}
+.u{
+  background-color:#2D2D2D ;
+  color: aliceblue;
+}
+.cc{
+  border: 2px solid darkred;
+}
+.qq{
+  font-size: 70px;
+}
