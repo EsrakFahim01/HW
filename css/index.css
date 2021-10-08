@@ -8,11 +8,14 @@ body{
 .m{
   font-size: 19px;
 }
+.m:hover{
+  color: aqua;
+}
 .b{
   background-color: red;
   color: aliceblue;
 }
-a{
+.at{
   text-decoration: none;
   color: aliceblue;
 }
@@ -26,6 +29,10 @@ td{
   float: right;
   font-size: 25px;
   padding: 35px 0px ;
+}
+.bb:hover{
+  background-color: #DD3333;
+  color: yellowgreen;
 }
 h1{
    font-size: 40px;
@@ -115,4 +122,12 @@ h2{
 }
 .qq{
   font-size: 70px;
+}
+td a{
+  text-decoration: none;
+  color: black;
+}
+td a:hover{
+  color: yellowgreen;
+  background-color: #DD3333;
 }
