@@ -1,0 +1,51 @@
+body{
+  background-color: azure;
+  font-family: 'Raleway', sans-serif;
+}
+.m{
+  font-size: 19px;
+}
+.m:hover{
+  color: aqua;
+}
+.b{
+  background-color: red;
+  color: aliceblue;
+}
+.at{
+  text-decoration: none;
+  color: aliceblue;
+}
+.bb{
+  float: right;
+  font-size: 25px;
+  padding: 35px 0px ;
+}
+.bb:hover{
+  background-color: #DD3333;
+  color: yellowgreen;
+}
+td a{
+  text-decoration: none;
+  color: black;
+}
+td a:hover{
+  color: yellowgreen;
+  background-color: #DD3333;
+}
+.c{
+  background-color: lightblue;
+}
+.r{
+  background-color:#242424;
+}
+.f{
+  background-color: #DD3333;
+  color: aliceblue;
+  font-size: 25px;
+}
+.o{
+  float: right;
+  color: aliceblue;
+  font-size: 20px;
+}
