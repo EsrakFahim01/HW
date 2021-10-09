@@ -1,5 +1,5 @@
 body{
-  background-color: azure;
+  background-color:lightcyan;
   font-family: 'Raleway', sans-serif;
 }
 .z{
@@ -134,4 +134,12 @@ td a:hover{
 }
 .oo{
   color: aliceblue;
+}
+.cc:hover{
+  width: 300px;
+  background-color: lightblue;
+}
+.xyz:hover{
+  width: 350px;
+  background-color: lightblue;
 }
