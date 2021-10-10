@@ -37,7 +37,8 @@ td{
 }
 h1{
    font-size: 40px;
-   text-decoration: underline;
+   text-decoration:underline;
+   text-decoration-color: royalblue;
    margin:  100px 10px 100px 10px;
 }
 .v{
@@ -88,7 +89,7 @@ h2{
   width: 200px;
   border: 2px solid darkred;
   padding: 5px;
-  margin: 12px;
+  margin: 12px 12px 45px 12px;
 }
 .r{
   background-color:#242424;
@@ -142,4 +143,12 @@ td a:hover{
 .xyz:hover{
   width: 350px;
   background-color: lightblue;
+}
+.k:hover{
+  height: 25px;
+  width: 25px;
+}
+.aa:hover{
+  height: 220px;
+  width: 220px;
 }
